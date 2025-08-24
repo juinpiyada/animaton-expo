@@ -1,0 +1,5 @@
+{
+  "name": "AI Storyboard Studio",
+  "description": "Generate a script from a prompt and create images for each scene to build a visual storyboard.",
+  "requestFramePermissions": []
+}
